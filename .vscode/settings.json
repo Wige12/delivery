@@ -1,0 +1,7 @@
+{
+    "php.version": "8.1.18",
+    "DockerRun.DisableDockerrc": true,
+    "DockerRun.Containers": [
+        "a7a25961bb22"
+    ]
+}
